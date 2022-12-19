@@ -1,4 +1,4 @@
-# Galang-Dwiwana-Thabrani--IF-B
+# Galang-Dwiwana-Thabrani IF-B
 # Ujian Akhir Semester 
 <br>Mata Kuliah 	: Dasar Pemrogaman
 <br> Nama		: Galang Dwiwana Thabrani
