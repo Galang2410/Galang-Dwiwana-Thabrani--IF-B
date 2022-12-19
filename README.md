@@ -65,3 +65,29 @@ int main()
 ```
 
 ## Output
+
+```
+NAMA : GALANG DWIWANA THABRANI
+NIM  : 1227050048
+================================
+#PROGAM MENGHIUTUNG TRANPOSE MATRIKS#
+================================
+Input jumlah baris : 2
+Input jumlah kolom : 2
+
+Baris ke 1, kolom ke 1 : 3
+Baris ke 1, kolom ke 2 : 4
+
+Baris ke 2, kolom ke 1 : 5
+Baris ke 2, kolom ke 2 : 6
+
+Hasil matriks:
+  3   5
+  4   6
+===================================
+hasil matriks setelah di transpose
+ 3 4
+ 5 6
+
+```
+
